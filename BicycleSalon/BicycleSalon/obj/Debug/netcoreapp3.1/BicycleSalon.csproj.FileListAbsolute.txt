@@ -1,0 +1,13 @@
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\bin\Debug\netcoreapp3.1\BicycleSalon.exe
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\bin\Debug\netcoreapp3.1\BicycleSalon.deps.json
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\bin\Debug\netcoreapp3.1\BicycleSalon.runtimeconfig.json
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\bin\Debug\netcoreapp3.1\BicycleSalon.runtimeconfig.dev.json
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\bin\Debug\netcoreapp3.1\BicycleSalon.dll
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\bin\Debug\netcoreapp3.1\BicycleSalon.pdb
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\obj\Debug\netcoreapp3.1\BicycleSalon.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\obj\Debug\netcoreapp3.1\BicycleSalon.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\obj\Debug\netcoreapp3.1\BicycleSalon.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\obj\Debug\netcoreapp3.1\BicycleSalon.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\obj\Debug\netcoreapp3.1\BicycleSalon.dll
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\obj\Debug\netcoreapp3.1\BicycleSalon.pdb
+C:\Users\Kamil\source\repos\BicycleSalon\BicycleSalon\BicycleSalon\obj\Debug\netcoreapp3.1\BicycleSalon.genruntimeconfig.cache
